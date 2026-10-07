@@ -1,0 +1,7 @@
+venv/ 
+__pycache__/ 
+*.pyc 
+certificates.db 
+generated/ 
+.pytest_cache/ 
+.vscode/ 
