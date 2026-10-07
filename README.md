@@ -50,4 +50,4 @@ bulk-certificate-generator/
 Clone the repository:
 
 ```bash
-git clone <your-github-repository-url>
+git clone <git clone https://github.com/uthprekshinib26-del/bulk-certificate-generator.git>
